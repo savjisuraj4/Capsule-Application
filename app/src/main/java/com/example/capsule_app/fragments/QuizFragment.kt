@@ -68,7 +68,6 @@ class QuizFragment : Fragment() {
         setQuestion()
         sharedPreferences=requireActivity().getSharedPreferences("Score",Context.MODE_PRIVATE)
         editor=sharedPreferences.edit()
-        editor.clear().apply()
         option1CardView.setOnClickListener {
             selectedOptionPosition = 1
             selectedOptionStrokeColor(option1CardView)
