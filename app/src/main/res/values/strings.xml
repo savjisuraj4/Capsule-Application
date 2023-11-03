@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Capsule-App</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notes">"Blood is a vital bodily fluid that carries oxygen, nutrients, and waste products in the body.
+        It's divided into types like A, B, AB, O, and has a positive or negative factor called Rh.
+        Blood flows through arteries, veins, and capillaries, and blood tests help diagnose health conditions. Blood donation is crucial, and disorders like anemia and hemophilia need specialized care. Blood clots and anticoagulants play key roles in blood health."</string>
+    <string name="blood">Blood</string>
+    <string name="_10_min">10 min</string>
+    <string name="question">Question</string>
+    <string name="_1">1</string>
+    <string name="_10">/ 10</string>
+    <string name="check_answer">Check Answer</string>
+    <string name="check_score">Check Score</string>
+    <string name="your_have_scored">Your have scored :</string>
+</resources>
